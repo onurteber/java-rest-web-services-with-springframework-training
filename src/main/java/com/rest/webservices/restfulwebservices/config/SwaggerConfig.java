@@ -1,4 +1,4 @@
-package com.rest.webservices.restfulwebservices;
+package com.rest.webservices.restfulwebservices.config;
 
 import java.util.Arrays;
 import java.util.HashSet;
